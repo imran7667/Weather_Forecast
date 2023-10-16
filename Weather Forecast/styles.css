@@ -6,10 +6,10 @@
 }
 
 body {
-    /* background-image: url('1.png');
-    background-size: cover; /* Optional: Adjust as needed */
-    /* background-position: center; Optional: Adjust as needed */
-    /* background-repeat: no-repeat; */ 
+    background-image: url('1.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
     background-color: skyblue;
 }
 
